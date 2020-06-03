@@ -1,6 +1,6 @@
 ### Date created
 
-6/3/2020
+6/3/2020, Wednesday
 
 ### Project Title
 
@@ -17,4 +17,4 @@ bikeshare_2.py, chicago.csv, new_york_city.csv, washington.csv, README.md
 
 ### Credits
 
-etc etc
+etc etc etc
