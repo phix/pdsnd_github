@@ -215,7 +215,7 @@ def raw(df):
                     doContinue = input("5 More Rows? , type Y or N:")
                     doContinue = doContinue.lower()
                     if doContinue not in ('y', 'n'):
-                        print("Not an appropriate choice.")
+                        print("Not an appropriate choice...")
                     if doContinue != 'y':
                         break
             else:
@@ -234,7 +234,7 @@ def main():
         user_stats(df)
         raw(df)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nWould you like to restart? Enter yes or no.\n\n')
         if restart.lower() != 'yes':
             break
 
