@@ -8,6 +8,7 @@ PYTHON DATA SCIENCE - BIKESHARE
 
 ### Description
 
+Here are some notes for the description
 this project helps learn the fundamentals of python and data analytics using the pandas framework.
 
 ### Files used
