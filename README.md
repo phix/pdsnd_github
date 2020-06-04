@@ -8,7 +8,8 @@ Replace the Project Title
 
 ### Description
 
-Describe what your project is about and what it does
+Here are some notes for the description
+this project helps learn the fundamentals of python and data analytics using the pandas framework.
 
 ### Files used
 
